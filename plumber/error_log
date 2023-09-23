@@ -1,0 +1,31 @@
+[24-May-2023 09:58:20 Asia/Manila] PHP Warning:  Undefined array key "date" in /home/tj6gnl1k9vif/public_html/uws-mis.online/plumber/visited_inspection.php on line 155
+[24-May-2023 02:06:36 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/tj6gnl1k9vif/public_html/uws-mis.online/plumber/includes/topbar.php:44
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/plumber/inspections_installation.php(3): include()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/plumber/includes/topbar.php on line 44
+[24-May-2023 02:12:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Not unique table/alias: 'tbladdress' in /home/tj6gnl1k9vif/public_html/uws-mis.online/plumber/inspections.php:80
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/plumber/inspections.php(80): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/plumber/inspections.php on line 80
+[24-May-2023 02:13:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Not unique table/alias: 'tbladdress' in /home/tj6gnl1k9vif/public_html/uws-mis.online/plumber/inspections.php:81
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/plumber/inspections.php(81): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/plumber/inspections.php on line 81
+[24-May-2023 02:13:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Not unique table/alias: 'tbladdress' in /home/tj6gnl1k9vif/public_html/uws-mis.online/plumber/inspections.php:81
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/plumber/inspections.php(81): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/plumber/inspections.php on line 81
+[24-May-2023 20:36:10 Asia/Manila] PHP Warning:  Undefined array key "date" in /home/tj6gnl1k9vif/public_html/uws-mis.online/plumber/visited_inspection.php on line 155
+[24-May-2023 21:42:24 Asia/Manila] PHP Warning:  Undefined array key "date" in /home/tj6gnl1k9vif/public_html/uws-mis.online/plumber/visited_inspection.php on line 155
+[25-May-2023 20:03:05 Asia/Manila] PHP Warning:  Undefined array key "date" in /home/tj6gnl1k9vif/public_html/uws-mis.online/plumber/visited_inspection.php on line 155
+[25-May-2023 20:37:43 Asia/Manila] PHP Warning:  Undefined array key "date" in /home/tj6gnl1k9vif/public_html/uws-mis.online/plumber/visited_inspection.php on line 155
+[25-May-2023 20:48:08 Asia/Manila] PHP Warning:  Undefined array key "date" in /home/tj6gnl1k9vif/public_html/uws-mis.online/plumber/visited_inspection.php on line 155
+[26-May-2023 05:57:01 Asia/Manila] PHP Warning:  Undefined array key "date" in /home/tj6gnl1k9vif/public_html/uws-mis.online/plumber/visited_inspection.php on line 155
+[26-May-2023 10:49:35 Asia/Manila] PHP Warning:  Undefined array key "date" in /home/tj6gnl1k9vif/public_html/uws-mis.online/plumber/visited_inspection.php on line 155
+[26-May-2023 15:12:29 Asia/Manila] PHP Warning:  Undefined array key "date" in /home/tj6gnl1k9vif/public_html/uws-mis.online/plumber/visited_inspection.php on line 155
+[26-May-2023 16:04:32 Asia/Manila] PHP Warning:  Undefined array key "date" in /home/tj6gnl1k9vif/public_html/uws-mis.online/plumber/visited_inspection.php on line 155
+[08-Jun-2023 13:12:05 Asia/Manila] PHP Warning:  Undefined array key "date" in /home/tj6gnl1k9vif/public_html/uws-mis.online/plumber/visited_inspection.php on line 155

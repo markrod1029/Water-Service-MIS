@@ -1,0 +1,112 @@
+[08-Mar-2023 00:58:57 UTC] PHP Warning:  require(includes/conn.php): Failed to open stream: No such file or directory in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php on line 3
+[08-Mar-2023 00:58:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/conn.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php on line 3
+[08-Mar-2023 00:59:05 UTC] PHP Warning:  require(includes/conn.php): Failed to open stream: No such file or directory in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php on line 3
+[08-Mar-2023 00:59:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/conn.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php on line 3
+[08-Mar-2023 00:59:11 UTC] PHP Warning:  require(includes/conn.php): Failed to open stream: No such file or directory in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php on line 3
+[08-Mar-2023 00:59:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/conn.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php on line 3
+[12-Mar-2023 12:36:41 UTC] PHP Warning:  require(includes/conn.php): Failed to open stream: No such file or directory in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php on line 3
+[12-Mar-2023 12:36:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/conn.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php on line 3
+[12-Mar-2023 12:38:22 UTC] PHP Warning:  require(includes/conn.php): Failed to open stream: No such file or directory in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php on line 3
+[12-Mar-2023 12:38:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/conn.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php on line 3
+[12-Mar-2023 12:48:57 UTC] PHP Warning:  Undefined variable $name in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php on line 108
+[12-Mar-2023 12:48:57 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer" not found in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php:119
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php on line 119
+[16-Mar-2023 16:46:48 UTC] PHP Warning:  Undefined variable $name in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php on line 108
+[16-Mar-2023 16:46:48 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer" not found in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php:119
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php on line 119
+[16-Mar-2023 16:52:23 UTC] PHP Warning:  Undefined variable $name in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php on line 107
+[20-Mar-2023 03:50:02 UTC] PHP Warning:  Undefined variable $name in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php on line 107
+[25-Mar-2023 12:15:16 UTC] PHP Warning:  Undefined variable $name in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php on line 107
+[11-Apr-2023 12:28:34 UTC] PHP Warning:  Undefined variable $name in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php on line 107
+[16-Apr-2023 14:55:46 UTC] PHP Warning:  Undefined array key "date" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/inspections_install.php on line 10
+[16-Apr-2023 15:47:08 UTC] PHP Warning:  Undefined variable $name in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php on line 107
+[16-Apr-2023 15:47:52 UTC] PHP Warning:  Undefined array key "date" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/inspections_install.php on line 10
+[16-Apr-2023 15:56:18 UTC] PHP Warning:  Undefined array key "status" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-inspections_install.php on line 13
+[16-Apr-2023 15:57:14 UTC] PHP Warning:  Undefined array key "status" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-inspections_install.php on line 13
+[17-Apr-2023 00:36:38 UTC] PHP Warning:  Undefined variable $name in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php on line 107
+[17-Apr-2023 00:46:28 UTC] PHP Warning:  Undefined array key "date" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/inspections_install.php on line 10
+[17-Apr-2023 01:04:48 UTC] PHP Warning:  Undefined variable $name in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php on line 107
+[17-Apr-2023 06:57:30 UTC] PHP Warning:  Undefined array key "status" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-inspections_install.php on line 13
+[17-Apr-2023 14:40:28 UTC] PHP Warning:  Undefined array key "date" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/inspections_install.php on line 10
+[17-Apr-2023 14:40:28 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer" not found in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/inspections_install.php:117
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/inspections_install.php on line 117
+[17-Apr-2023 14:42:25 UTC] PHP Warning:  Undefined array key "date" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/inspections_install.php on line 10
+[17-Apr-2023 14:42:25 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer" not found in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/inspections_install.php:117
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/inspections_install.php on line 117
+[17-Apr-2023 14:43:28 UTC] PHP Warning:  Undefined array key "date" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/inspections_install.php on line 10
+[17-Apr-2023 14:50:44 UTC] PHP Warning:  Undefined array key "date" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/inspections_install.php on line 10
+[17-Apr-2023 14:52:58 UTC] PHP Warning:  Undefined array key "date" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/inspections_install.php on line 10
+[17-Apr-2023 14:55:26 UTC] PHP Warning:  Undefined array key "status" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-inspections_install.php on line 13
+[17-Apr-2023 15:06:11 UTC] PHP Warning:  Undefined array key "date" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/inspections_install.php on line 10
+[17-Apr-2023 15:06:32 UTC] PHP Warning:  Undefined array key "date" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/inspections_install.php on line 10
+[17-Apr-2023 15:06:47 UTC] PHP Warning:  Undefined array key "status" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-inspections_install.php on line 13
+[18-Apr-2023 00:39:20 UTC] PHP Warning:  Undefined variable $name in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php on line 107
+[18-Apr-2023 00:45:12 UTC] PHP Warning:  Undefined array key "date" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/inspections_install.php on line 10
+[18-Apr-2023 00:47:45 UTC] PHP Warning:  Undefined array key "date" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/inspections_install.php on line 10
+[18-Apr-2023 00:49:40 UTC] PHP Warning:  Undefined array key "status" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-inspections_install.php on line 13
+[18-Apr-2023 01:10:36 UTC] PHP Warning:  Undefined variable $name in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php on line 107
+[18-Apr-2023 01:15:58 UTC] PHP Warning:  Undefined variable $name in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php on line 107
+[19-Apr-2023 03:38:35 UTC] PHP Warning:  Undefined variable $name in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php on line 107
+[19-Apr-2023 03:42:05 UTC] PHP Warning:  Undefined array key "date" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/inspections_install.php on line 10
+[19-Apr-2023 03:46:43 UTC] PHP Warning:  Undefined array key "status" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-inspections_install.php on line 13
+[19-Apr-2023 07:22:07 UTC] PHP Warning:  Undefined variable $name in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php on line 107
+[24-May-2023 01:57:33 UTC] PHP Warning:  Undefined variable $name in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php on line 106
+[24-May-2023 12:34:53 UTC] PHP Warning:  Undefined variable $name in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php on line 106
+[24-May-2023 13:40:58 UTC] PHP Warning:  Undefined variable $name in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php on line 106
+[25-May-2023 11:57:07 UTC] PHP Warning:  Undefined variable $name in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php on line 106
+[25-May-2023 12:35:31 UTC] PHP Warning:  Undefined array key "admin" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/session.php on line 9
+[25-May-2023 12:35:31 UTC] PHP Warning:  Undefined variable $name in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php on line 106
+[25-May-2023 12:46:10 UTC] PHP Warning:  Undefined variable $name in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php on line 106
+[25-May-2023 21:55:20 UTC] PHP Warning:  Undefined variable $name in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php on line 106
+[26-May-2023 02:46:53 UTC] PHP Warning:  Undefined variable $name in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php on line 106
+[26-May-2023 07:11:46 UTC] PHP Warning:  Undefined variable $name in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php on line 106
+[26-May-2023 08:03:39 UTC] PHP Warning:  Undefined variable $name in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php on line 106
+[04-Jun-2023 06:29:36 UTC] PHP Warning:  Undefined variable $name in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php on line 106
+[04-Jun-2023 06:29:36 UTC] PHP Fatal error:  Uncaught phpmailerException: Invalid address: admin in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/PHPMailer/class.phpmailer.php:489
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/PHPMailer/class.phpmailer.php(431): PHPMailer->AddAnAddress()
+#1 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php(128): PHPMailer->AddAddress()
+#2 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/PHPMailer/class.phpmailer.php on line 489
+[04-Jun-2023 06:29:47 UTC] PHP Warning:  Undefined array key "complaint_ID" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-complaint.php on line 7
+[04-Jun-2023 06:29:47 UTC] PHP Warning:  Undefined array key "client_ID" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-complaint.php on line 8
+[04-Jun-2023 06:29:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-complaint.php on line 14
+[04-Jun-2023 06:29:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-complaint.php on line 15
+[04-Jun-2023 06:29:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-complaint.php on line 15
+[04-Jun-2023 06:29:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-complaint.php on line 15
+[06-Jun-2023 06:04:28 UTC] PHP Warning:  Undefined variable $name in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-client.php on line 106
+[08-Jun-2023 05:05:18 UTC] PHP Warning:  Undefined array key "complaint_ID" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-complaint.php on line 7
+[08-Jun-2023 05:05:18 UTC] PHP Warning:  Undefined array key "client_ID" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-complaint.php on line 8
+[08-Jun-2023 05:05:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-complaint.php on line 14
+[08-Jun-2023 05:05:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-complaint.php on line 15
+[08-Jun-2023 05:05:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-complaint.php on line 15
+[08-Jun-2023 05:05:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-complaint.php on line 15
+[23-Aug-2023 12:40:58 UTC] PHP Warning:  Undefined array key "complaint_ID" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-complaint.php on line 7
+[23-Aug-2023 12:40:58 UTC] PHP Warning:  Undefined array key "client_ID" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-complaint.php on line 8
+[23-Aug-2023 12:40:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-complaint.php on line 14
+[23-Aug-2023 12:40:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-complaint.php on line 15
+[23-Aug-2023 12:40:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-complaint.php on line 15
+[23-Aug-2023 12:40:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/CRUD/send-complaint.php on line 15

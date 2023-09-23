@@ -1,0 +1,131 @@
+[06-Mar-2023 11:17:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php:8
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php(8): mysqli_connect()
+#1 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/session.php(3): include('/home/tj6gnl1k9...')
+#2 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/print-plumber.php(1): include('/home/tj6gnl1k9...')
+#3 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php on line 8
+[06-Mar-2023 11:17:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php:8
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php(8): mysqli_connect()
+#1 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/session.php(3): include('/home/tj6gnl1k9...')
+#2 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/print-plumber.php(1): include('/home/tj6gnl1k9...')
+#3 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php on line 8
+[06-Mar-2023 11:18:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php:8
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php(8): mysqli_connect()
+#1 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/session.php(3): include('/home/tj6gnl1k9...')
+#2 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/print-plumber.php(1): include('/home/tj6gnl1k9...')
+#3 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php on line 8
+[06-Mar-2023 11:18:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php:8
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php(8): mysqli_connect()
+#1 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/session.php(3): include('/home/tj6gnl1k9...')
+#2 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/print-plumber.php(1): include('/home/tj6gnl1k9...')
+#3 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php on line 8
+[06-Mar-2023 11:19:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php:8
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php(8): mysqli_connect()
+#1 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/session.php(3): include('/home/tj6gnl1k9...')
+#2 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/print-plumber.php(1): include('/home/tj6gnl1k9...')
+#3 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php on line 8
+[06-Mar-2023 11:19:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php:8
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php(8): mysqli_connect()
+#1 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/session.php(3): include('/home/tj6gnl1k9...')
+#2 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/print-plumber.php(1): include('/home/tj6gnl1k9...')
+#3 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php on line 8
+[06-Mar-2023 11:20:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php:8
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php(8): mysqli_connect()
+#1 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/session.php(3): include('/home/tj6gnl1k9...')
+#2 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/print-plumber.php(1): include('/home/tj6gnl1k9...')
+#3 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php on line 8
+[06-Mar-2023 11:20:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php:8
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php(8): mysqli_connect()
+#1 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/session.php(3): include('/home/tj6gnl1k9...')
+#2 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/print-plumber.php(1): include('/home/tj6gnl1k9...')
+#3 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php on line 8
+[06-Mar-2023 11:20:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php:8
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php(8): mysqli_connect()
+#1 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/session.php(3): include('/home/tj6gnl1k9...')
+#2 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/print-plumber.php(1): include('/home/tj6gnl1k9...')
+#3 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php on line 8
+[06-Mar-2023 11:20:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php:8
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php(8): mysqli_connect()
+#1 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/session.php(3): include('/home/tj6gnl1k9...')
+#2 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/print-plumber.php(1): include('/home/tj6gnl1k9...')
+#3 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php on line 8
+[06-Mar-2023 11:22:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php:8
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php(8): mysqli_connect()
+#1 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/session.php(3): include('/home/tj6gnl1k9...')
+#2 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/print_loc.php(1): include('/home/tj6gnl1k9...')
+#3 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php on line 8
+[24-May-2023 12:45:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php:8
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php(8): mysqli_connect()
+#1 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/session.php(3): include('/home/tj6gnl1k9...')
+#2 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/print-inspection-daily.php(1): include('/home/tj6gnl1k9...')
+#3 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php on line 8
+[24-May-2023 12:45:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php:8
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php(8): mysqli_connect()
+#1 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/session.php(3): include('/home/tj6gnl1k9...')
+#2 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/print-inspection-daily.php(1): include('/home/tj6gnl1k9...')
+#3 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php on line 8
+[24-May-2023 12:45:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php:8
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php(8): mysqli_connect()
+#1 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/session.php(3): include('/home/tj6gnl1k9...')
+#2 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/print-inspection-daily.php(1): include('/home/tj6gnl1k9...')
+#3 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php on line 8
+[24-May-2023 12:45:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php:8
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php(8): mysqli_connect()
+#1 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/session.php(3): include('/home/tj6gnl1k9...')
+#2 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/print-inspection-monthly.php(1): include('/home/tj6gnl1k9...')
+#3 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php on line 8
+[24-May-2023 12:45:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php:8
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php(8): mysqli_connect()
+#1 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/session.php(3): include('/home/tj6gnl1k9...')
+#2 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/print-inspection-monthly.php(1): include('/home/tj6gnl1k9...')
+#3 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php on line 8
+[24-May-2023 12:45:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php:8
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php(8): mysqli_connect()
+#1 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/session.php(3): include('/home/tj6gnl1k9...')
+#2 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/print-inspection-annually.php(1): include('/home/tj6gnl1k9...')
+#3 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php on line 8
+[24-May-2023 12:46:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php:8
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php(8): mysqli_connect()
+#1 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/session.php(3): include('/home/tj6gnl1k9...')
+#2 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/print-complaint-daily.php(1): include('/home/tj6gnl1k9...')
+#3 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/conn.php on line 8
+[24-May-2023 14:29:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'billing.due_date' in 'where clause' in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/print-billing-monthly.php:28
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/print-billing-monthly.php(28): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print/print-billing-monthly.php on line 28

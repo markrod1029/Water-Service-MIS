@@ -1,0 +1,907 @@
+[06-Mar-2023 12:11:37 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php:44
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/locations.php(4): include()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php on line 44
+[12-Mar-2023 12:23:29 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php:44
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/home.php(3): include()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php on line 44
+[12-Mar-2023 13:59:21 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php:44
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/home.php(3): include()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php on line 44
+[15-Mar-2023 10:08:58 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 10:08:58 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 10:08:58 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 10:08:58 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 10:08:58 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 10:08:58 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 10:08:58 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 10:08:58 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 10:08:58 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 10:08:58 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 10:08:58 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 10:08:58 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 10:08:58 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 10:08:58 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 10:08:58 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 10:08:58 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 10:08:58 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 10:09:04 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 10:09:04 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 10:09:04 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 10:09:04 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 10:09:04 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 10:09:04 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 10:09:04 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 10:09:04 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 10:09:04 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 10:09:04 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 10:09:04 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 10:09:04 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 10:09:04 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 10:09:04 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 10:09:04 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 10:09:04 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 10:09:04 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 13:10:04 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 13:10:04 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 13:10:04 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 13:10:04 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 13:10:04 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 13:10:04 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 13:10:04 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 13:10:04 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 13:10:04 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 13:10:04 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 13:10:04 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 13:10:04 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 13:10:04 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 13:10:04 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 13:10:04 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 13:10:04 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[15-Mar-2023 13:10:04 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[16-Mar-2023 15:55:50 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php:44
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/home.php(3): include()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php on line 44
+[16-Mar-2023 16:30:54 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[16-Mar-2023 16:30:54 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[16-Mar-2023 16:30:54 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[16-Mar-2023 16:30:54 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[16-Mar-2023 16:30:54 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[16-Mar-2023 16:30:54 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[16-Mar-2023 16:30:54 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[16-Mar-2023 16:30:54 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[16-Mar-2023 16:30:54 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[16-Mar-2023 16:30:54 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[16-Mar-2023 16:30:54 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[16-Mar-2023 16:30:54 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[16-Mar-2023 16:30:54 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[16-Mar-2023 16:30:54 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[16-Mar-2023 16:30:54 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[16-Mar-2023 16:30:54 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[16-Mar-2023 16:30:54 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[16-Mar-2023 16:30:54 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[16-Mar-2023 16:31:16 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[16-Mar-2023 16:31:16 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[16-Mar-2023 16:31:16 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[16-Mar-2023 16:31:16 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[16-Mar-2023 16:31:16 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[16-Mar-2023 16:31:16 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[16-Mar-2023 16:31:16 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[16-Mar-2023 16:31:16 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[16-Mar-2023 16:31:16 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[16-Mar-2023 16:31:16 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[16-Mar-2023 16:31:16 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[16-Mar-2023 16:31:16 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[16-Mar-2023 16:31:16 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[16-Mar-2023 16:31:16 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[16-Mar-2023 16:31:16 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[16-Mar-2023 16:31:16 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[16-Mar-2023 16:31:16 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[17-Mar-2023 04:24:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/SOA.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/SOA.php on line 43
+[17-Mar-2023 05:06:44 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php:44
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php(3): include()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php on line 44
+[19-Mar-2023 14:18:08 UTC] PHP Warning:  Undefined variable $due in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/SOA.php on line 59
+[19-Mar-2023 14:19:12 UTC] PHP Warning:  Undefined variable $due in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/SOA.php on line 59
+[19-Mar-2023 14:19:33 UTC] PHP Warning:  Undefined variable $due in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/SOA.php on line 59
+[19-Mar-2023 14:20:29 UTC] PHP Warning:  Undefined variable $due in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/SOA.php on line 59
+[19-Mar-2023 14:26:15 UTC] PHP Warning:  Undefined variable $due in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/SOA.php on line 59
+[19-Mar-2023 14:27:25 UTC] PHP Warning:  Undefined variable $due in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/SOA.php on line 59
+[20-Mar-2023 03:53:00 UTC] PHP Warning:  Undefined variable $due in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/SOA.php on line 59
+[20-Mar-2023 03:53:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/SOA.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/SOA.php on line 43
+[20-Mar-2023 03:54:20 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 27
+[20-Mar-2023 03:54:20 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 36
+[20-Mar-2023 03:54:20 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 69
+[20-Mar-2023 03:54:20 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 90
+[20-Mar-2023 03:54:20 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 111
+[20-Mar-2023 03:54:20 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 128
+[20-Mar-2023 03:54:20 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 148
+[20-Mar-2023 03:54:20 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 173
+[20-Mar-2023 03:54:20 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 200
+[20-Mar-2023 03:54:20 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 221
+[20-Mar-2023 03:55:02 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 27
+[20-Mar-2023 03:55:02 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 36
+[20-Mar-2023 03:55:02 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 69
+[20-Mar-2023 03:55:02 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 90
+[20-Mar-2023 03:55:02 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 111
+[20-Mar-2023 03:55:02 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 128
+[20-Mar-2023 03:55:02 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 148
+[20-Mar-2023 03:55:02 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 173
+[20-Mar-2023 03:55:02 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 200
+[20-Mar-2023 03:55:02 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 221
+[20-Mar-2023 03:58:38 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 27
+[20-Mar-2023 03:58:38 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 36
+[20-Mar-2023 03:58:38 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 69
+[20-Mar-2023 03:58:38 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 90
+[20-Mar-2023 03:58:38 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 111
+[20-Mar-2023 03:58:38 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 128
+[20-Mar-2023 03:58:38 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 148
+[20-Mar-2023 03:58:38 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 173
+[20-Mar-2023 03:58:38 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 200
+[20-Mar-2023 03:58:38 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 221
+[20-Mar-2023 04:13:59 UTC] PHP Warning:  Undefined variable $due in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/SOA.php on line 59
+[20-Mar-2023 04:13:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/SOA.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/SOA.php on line 43
+[20-Mar-2023 04:15:59 UTC] PHP Warning:  Undefined variable $due in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/SOA.php on line 59
+[20-Mar-2023 04:15:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/SOA.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/SOA.php on line 43
+[20-Mar-2023 04:17:02 UTC] PHP Warning:  Undefined variable $due in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/SOA.php on line 59
+[20-Mar-2023 04:17:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/SOA.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/SOA.php on line 43
+[20-Mar-2023 04:18:01 UTC] PHP Warning:  Undefined variable $due in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/SOA.php on line 59
+[20-Mar-2023 04:18:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/SOA.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/SOA.php on line 43
+[21-Mar-2023 12:02:27 UTC] PHP Warning:  imagecreatefrompng(): &quot;../images/w1.jpg&quot; is not a valid PNG file in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php on line 53
+[21-Mar-2023 12:02:27 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, bool given in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php:65
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php(65): imagesx()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php on line 65
+[21-Mar-2023 12:02:40 UTC] PHP Warning:  imagecreatefrompng(): &quot;../images/w1.jpg&quot; is not a valid PNG file in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php on line 53
+[21-Mar-2023 12:02:40 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, bool given in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php:65
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php(65): imagesx()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php on line 65
+[21-Mar-2023 12:02:53 UTC] PHP Warning:  imagecreatefrompng(): &quot;../images/w1.jpg&quot; is not a valid PNG file in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php on line 53
+[21-Mar-2023 12:02:53 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, bool given in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php:65
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php(65): imagesx()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php on line 65
+[21-Mar-2023 12:03:09 UTC] PHP Warning:  imagecreatefrompng(): &quot;../images/w1.jpg&quot; is not a valid PNG file in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php on line 53
+[21-Mar-2023 12:03:09 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, bool given in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php:65
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php(65): imagesx()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php on line 65
+[21-Mar-2023 12:03:42 UTC] PHP Warning:  Undefined array key "Whn" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/edit-advisory.php on line 62
+[21-Mar-2023 12:04:43 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 27
+[21-Mar-2023 12:04:43 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 36
+[21-Mar-2023 12:04:43 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 69
+[21-Mar-2023 12:04:43 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 90
+[21-Mar-2023 12:04:43 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 111
+[21-Mar-2023 12:04:43 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 128
+[21-Mar-2023 12:04:43 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 148
+[21-Mar-2023 12:04:43 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 173
+[21-Mar-2023 12:04:43 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 200
+[21-Mar-2023 12:04:43 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 221
+[22-Mar-2023 04:39:22 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php:44
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-plumber.php(3): include()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php on line 44
+[22-Mar-2023 04:59:53 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php:44
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/home.php(3): include()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php on line 44
+[22-Mar-2023 05:06:01 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 27
+[22-Mar-2023 05:06:01 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 36
+[22-Mar-2023 05:06:01 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 69
+[22-Mar-2023 05:06:01 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 90
+[22-Mar-2023 05:06:01 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 111
+[22-Mar-2023 05:06:01 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 128
+[22-Mar-2023 05:06:01 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 148
+[22-Mar-2023 05:06:01 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 173
+[22-Mar-2023 05:06:01 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 200
+[22-Mar-2023 05:06:01 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 221
+[24-Mar-2023 17:31:50 UTC] PHP Warning:  imagecreatefrompng(): &quot;../images/w1.jpg&quot; is not a valid PNG file in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php on line 53
+[24-Mar-2023 17:31:50 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, bool given in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php:65
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php(65): imagesx()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php on line 65
+[24-Mar-2023 17:31:54 UTC] PHP Warning:  imagecreatefrompng(): &quot;../images/w1.jpg&quot; is not a valid PNG file in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php on line 53
+[24-Mar-2023 17:31:54 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, bool given in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php:65
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php(65): imagesx()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php on line 65
+[24-Mar-2023 17:32:11 UTC] PHP Warning:  imagecreatefrompng(): &quot;../images/w1.jpg&quot; is not a valid PNG file in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php on line 53
+[24-Mar-2023 17:32:11 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, bool given in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php:65
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php(65): imagesx()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php on line 65
+[24-Mar-2023 17:48:58 UTC] PHP Warning:  imagecreatefrompng(): &quot;../images/w1.jpg&quot; is not a valid PNG file in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php on line 53
+[24-Mar-2023 17:48:58 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, bool given in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php:65
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php(65): imagesx()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php on line 65
+[25-Mar-2023 00:05:55 UTC] PHP Warning:  imagecreatefrompng(): &quot;../images/w1.jpg&quot; is not a valid PNG file in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php on line 53
+[25-Mar-2023 00:05:55 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, bool given in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php:65
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php(65): imagesx()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php on line 65
+[25-Mar-2023 00:07:46 UTC] PHP Warning:  imagecreatefrompng(): &quot;../images/w1.jpg&quot; is not a valid PNG file in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/clients.php on line 55
+[25-Mar-2023 00:07:46 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, bool given in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/clients.php:67
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/clients.php(67): imagesx()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/clients.php on line 67
+[25-Mar-2023 00:07:57 UTC] PHP Warning:  imagecreatefrompng(): &quot;../images/w1.jpg&quot; is not a valid PNG file in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/clients.php on line 55
+[25-Mar-2023 00:07:57 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, bool given in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/clients.php:67
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/clients.php(67): imagesx()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/clients.php on line 67
+[25-Mar-2023 02:38:05 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php:44
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/locations.php(4): include()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php on line 44
+[25-Mar-2023 09:25:24 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[25-Mar-2023 09:32:47 UTC] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection.php on line 87
+[25-Mar-2023 12:12:34 UTC] PHP Warning:  imagecreatefrompng(): &quot;../images/w1.jpg&quot; is not a valid PNG file in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php on line 53
+[25-Mar-2023 12:12:34 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, bool given in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php:65
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php(65): imagesx()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php on line 65
+[25-Mar-2023 12:12:42 UTC] PHP Warning:  imagecreatefrompng(): &quot;../images/w1.jpg&quot; is not a valid PNG file in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php on line 53
+[25-Mar-2023 12:12:42 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, bool given in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php:65
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php(65): imagesx()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php on line 65
+[25-Mar-2023 12:12:45 UTC] PHP Warning:  imagecreatefrompng(): &quot;../images/w1.jpg&quot; is not a valid PNG file in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php on line 53
+[25-Mar-2023 12:12:45 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, bool given in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php:65
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php(65): imagesx()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php on line 65
+[25-Mar-2023 12:16:49 UTC] PHP Warning:  imagecreatefrompng(): &quot;../images/w1.jpg&quot; is not a valid PNG file in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/clients.php on line 55
+[25-Mar-2023 12:16:49 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, bool given in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/clients.php:67
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/clients.php(67): imagesx()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/clients.php on line 67
+[26-Mar-2023 07:46:53 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[26-Mar-2023 07:51:03 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[26-Mar-2023 08:01:15 UTC] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection.php on line 87
+[29-Mar-2023 14:45:02 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 27
+[29-Mar-2023 14:45:02 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 36
+[29-Mar-2023 14:45:02 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 69
+[29-Mar-2023 14:45:02 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 90
+[29-Mar-2023 14:45:02 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 111
+[29-Mar-2023 14:45:02 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 128
+[29-Mar-2023 14:45:02 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 148
+[29-Mar-2023 14:45:02 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 173
+[29-Mar-2023 14:45:02 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 200
+[29-Mar-2023 14:45:02 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 221
+[01-Apr-2023 07:55:57 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 27
+[01-Apr-2023 07:55:57 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 36
+[01-Apr-2023 07:55:57 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 69
+[01-Apr-2023 07:55:57 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 90
+[01-Apr-2023 07:55:57 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 111
+[01-Apr-2023 07:55:57 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 128
+[01-Apr-2023 07:55:57 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 148
+[01-Apr-2023 07:55:57 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 173
+[01-Apr-2023 07:55:57 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 200
+[01-Apr-2023 07:55:57 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 221
+[02-Apr-2023 15:11:50 UTC] PHP Warning:  Undefined array key "client" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 64
+[02-Apr-2023 15:17:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 113
+[02-Apr-2023 15:17:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 124
+[02-Apr-2023 15:17:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 113
+[02-Apr-2023 15:17:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 124
+[02-Apr-2023 15:25:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 113
+[02-Apr-2023 15:25:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 124
+[02-Apr-2023 15:25:55 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 27
+[02-Apr-2023 15:25:55 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 36
+[02-Apr-2023 15:25:55 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 69
+[02-Apr-2023 15:25:55 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 90
+[02-Apr-2023 15:25:55 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 111
+[02-Apr-2023 15:25:55 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 128
+[02-Apr-2023 15:25:55 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 148
+[02-Apr-2023 15:25:55 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 173
+[02-Apr-2023 15:25:55 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 200
+[02-Apr-2023 15:25:55 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 221
+[08-Apr-2023 11:07:57 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 272
+[08-Apr-2023 11:08:42 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 273
+[08-Apr-2023 11:09:09 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 274
+[08-Apr-2023 11:10:14 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 274
+[08-Apr-2023 11:10:29 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 274
+[08-Apr-2023 11:11:37 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 274
+[08-Apr-2023 11:12:19 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 274
+[08-Apr-2023 11:13:00 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 274
+[08-Apr-2023 11:13:15 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 274
+[08-Apr-2023 11:13:31 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 274
+[08-Apr-2023 11:14:18 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 27
+[08-Apr-2023 11:14:18 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 36
+[08-Apr-2023 11:14:18 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 69
+[08-Apr-2023 11:14:18 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 90
+[08-Apr-2023 11:14:18 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 111
+[08-Apr-2023 11:14:18 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 128
+[08-Apr-2023 11:14:18 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 148
+[08-Apr-2023 11:14:18 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 173
+[08-Apr-2023 11:14:18 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 200
+[08-Apr-2023 11:14:18 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 221
+[08-Apr-2023 11:14:41 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 27
+[08-Apr-2023 11:14:41 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 36
+[08-Apr-2023 11:14:41 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 69
+[08-Apr-2023 11:14:41 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 90
+[08-Apr-2023 11:14:41 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 111
+[08-Apr-2023 11:14:41 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 128
+[08-Apr-2023 11:14:41 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 148
+[08-Apr-2023 11:14:41 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 173
+[08-Apr-2023 11:14:41 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 200
+[08-Apr-2023 11:14:41 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 221
+[08-Apr-2023 11:14:52 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 27
+[08-Apr-2023 11:14:52 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 36
+[08-Apr-2023 11:14:52 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 69
+[08-Apr-2023 11:14:52 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 90
+[08-Apr-2023 11:14:52 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 111
+[08-Apr-2023 11:14:52 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 128
+[08-Apr-2023 11:14:52 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 148
+[08-Apr-2023 11:14:52 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 173
+[08-Apr-2023 11:14:52 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 200
+[08-Apr-2023 11:14:52 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 221
+[08-Apr-2023 11:15:13 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 27
+[08-Apr-2023 11:15:13 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 36
+[08-Apr-2023 11:15:13 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 69
+[08-Apr-2023 11:15:13 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 90
+[08-Apr-2023 11:15:13 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 111
+[08-Apr-2023 11:15:13 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 128
+[08-Apr-2023 11:15:13 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 148
+[08-Apr-2023 11:15:13 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 173
+[08-Apr-2023 11:15:13 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 200
+[08-Apr-2023 11:15:13 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 221
+[08-Apr-2023 11:15:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 113
+[08-Apr-2023 11:15:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 124
+[08-Apr-2023 11:18:13 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 27
+[08-Apr-2023 11:18:13 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 36
+[08-Apr-2023 11:18:13 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 69
+[08-Apr-2023 11:18:13 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 90
+[08-Apr-2023 11:18:13 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 111
+[08-Apr-2023 11:18:13 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 128
+[08-Apr-2023 11:18:13 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 148
+[08-Apr-2023 11:18:13 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 173
+[08-Apr-2023 11:18:13 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 200
+[08-Apr-2023 11:18:13 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 221
+[08-Apr-2023 11:18:41 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 27
+[08-Apr-2023 11:18:41 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 36
+[08-Apr-2023 11:18:41 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 69
+[08-Apr-2023 11:18:41 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 90
+[08-Apr-2023 11:18:41 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 111
+[08-Apr-2023 11:18:41 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 128
+[08-Apr-2023 11:18:41 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 148
+[08-Apr-2023 11:18:41 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 173
+[08-Apr-2023 11:18:41 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 200
+[08-Apr-2023 11:18:41 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 221
+[11-Apr-2023 05:09:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 113
+[11-Apr-2023 05:09:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 124
+[11-Apr-2023 05:14:49 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 274
+[11-Apr-2023 12:33:05 UTC] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection.php on line 87
+[12-Apr-2023 11:19:50 UTC] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection.php on line 87
+[12-Apr-2023 11:56:30 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 274
+[12-Apr-2023 11:56:39 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 274
+[12-Apr-2023 11:56:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 113
+[12-Apr-2023 11:56:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 124
+[16-Apr-2023 12:45:02 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php:44
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/system.php(4): include()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php on line 44
+[16-Apr-2023 13:43:45 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php:44
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/home.php(3): include()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php on line 44
+[16-Apr-2023 14:38:20 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php:44
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/inspections.php(3): include()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php on line 44
+[16-Apr-2023 14:49:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print_now.php on line 67
+[16-Apr-2023 14:49:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print_now.php on line 69
+[16-Apr-2023 14:49:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print_now.php on line 70
+[16-Apr-2023 14:49:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print_now.php on line 71
+[16-Apr-2023 14:49:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print_now.php on line 72
+[16-Apr-2023 14:49:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print_now.php on line 72
+[16-Apr-2023 14:49:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print_now.php on line 72
+[16-Apr-2023 14:53:10 UTC] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection.php on line 87
+[16-Apr-2023 14:55:28 UTC] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection.php on line 87
+[16-Apr-2023 14:57:30 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 27
+[16-Apr-2023 14:57:30 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 36
+[16-Apr-2023 14:57:30 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 69
+[16-Apr-2023 14:57:30 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 90
+[16-Apr-2023 14:57:30 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 111
+[16-Apr-2023 14:57:30 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 128
+[16-Apr-2023 14:57:30 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 148
+[16-Apr-2023 14:57:30 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 173
+[16-Apr-2023 14:57:30 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 200
+[16-Apr-2023 14:57:30 UTC] PHP Warning:  Undefined variable $page in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/leftbar.php on line 228
+[16-Apr-2023 14:59:33 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php:44
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/approved-inspections.php(3): include()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php on line 44
+[16-Apr-2023 15:27:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND inspection_schedule_for_registration_approval.sentToPlumber = 0' at line 4 in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/approved-inspections.php:100
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/approved-inspections.php(100): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/approved-inspections.php on line 100
+[16-Apr-2023 15:27:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND inspection_schedule_for_registration_approval.sentToPlumber = 0' at line 4 in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/approved-inspections.php:100
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/approved-inspections.php(100): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/approved-inspections.php on line 100
+[16-Apr-2023 15:27:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND inspection_schedule_for_registration_approval.sentToPlumber = 0' at line 4 in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/approved-inspections.php:100
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/approved-inspections.php(100): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/approved-inspections.php on line 100
+[16-Apr-2023 15:27:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND inspection_schedule_for_registration_approval.sentToPlumber = 0' at line 4 in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/approved-inspections.php:100
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/approved-inspections.php(100): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/approved-inspections.php on line 100
+[16-Apr-2023 15:47:49 UTC] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection.php on line 87
+[16-Apr-2023 15:52:54 UTC] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection.php on line 87
+[16-Apr-2023 15:53:03 UTC] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection-plumber.php on line 87
+[16-Apr-2023 15:56:26 UTC] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection-plumber.php on line 87
+[17-Apr-2023 00:29:33 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 274
+[17-Apr-2023 00:30:34 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 274
+[17-Apr-2023 00:46:10 UTC] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection.php on line 87
+[17-Apr-2023 00:56:22 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php:44
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/inspections.php(3): include()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php on line 44
+[17-Apr-2023 06:57:21 UTC] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection-plumber.php on line 87
+[17-Apr-2023 13:56:41 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php:44
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/approved-inspections.php(3): include()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php on line 44
+[17-Apr-2023 14:40:21 UTC] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection.php on line 87
+[17-Apr-2023 14:40:33 UTC] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection.php on line 87
+[17-Apr-2023 14:42:22 UTC] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection.php on line 87
+[17-Apr-2023 14:42:29 UTC] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection.php on line 87
+[17-Apr-2023 14:49:25 UTC] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection.php on line 87
+[17-Apr-2023 14:50:04 UTC] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection.php on line 87
+[17-Apr-2023 14:52:54 UTC] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection.php on line 87
+[17-Apr-2023 14:53:53 UTC] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection-plumber.php on line 87
+[17-Apr-2023 15:06:08 UTC] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection.php on line 87
+[17-Apr-2023 15:06:30 UTC] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection.php on line 87
+[17-Apr-2023 15:06:43 UTC] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection-plumber.php on line 87
+[18-Apr-2023 00:44:53 UTC] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection.php on line 87
+[18-Apr-2023 00:47:42 UTC] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection.php on line 87
+[18-Apr-2023 00:49:28 UTC] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection-plumber.php on line 87
+[18-Apr-2023 00:52:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 113
+[18-Apr-2023 00:52:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 124
+[18-Apr-2023 00:54:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 113
+[18-Apr-2023 00:54:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 124
+[18-Apr-2023 00:54:41 UTC] PHP Warning:  Undefined array key "note" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 305
+[18-Apr-2023 00:56:21 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php:44
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/billing.php(3): include()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php on line 44
+[18-Apr-2023 01:11:28 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php:44
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php(3): include()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php on line 44
+[18-Apr-2023 12:05:37 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 274
+[19-Apr-2023 03:41:54 UTC] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection.php on line 87
+[19-Apr-2023 03:46:19 UTC] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection-plumber.php on line 87
+[19-Apr-2023 04:03:20 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 274
+[19-Apr-2023 07:45:28 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php:44
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/locations.php(4): include()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php on line 44
+[19-Apr-2023 07:49:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's','123','5','rosielyndatuin56@gmail.com','09888888888', 'New Applicant', NOW(),' at line 2 in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-clients.php:202
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-clients.php(202): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-clients.php on line 202
+[19-Apr-2023 11:13:22 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php:44
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/plumber.php(4): include()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php on line 44
+[21-Apr-2023 13:07:46 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php:44
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/system.php(4): include()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php on line 44
+[22-Apr-2023 10:40:13 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php:44
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/system.php(4): include()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php on line 44
+[24-May-2023 01:08:59 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php:44
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/message.php(3): include()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php on line 44
+[24-May-2023 02:00:11 UTC] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection.php on line 87
+[24-May-2023 10:15:30 Asia/Manila] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection-plumber.php on line 95
+[24-May-2023 10:15:47 Asia/Manila] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection-plumber.php on line 95
+[24-May-2023 12:36:31 UTC] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection.php on line 87
+[24-May-2023 20:36:39 Asia/Manila] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection-plumber.php on line 95
+[24-May-2023 12:39:42 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 102
+[24-May-2023 12:43:16 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php:44
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php(3): include()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php on line 44
+[24-May-2023 13:18:22 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 102
+[24-May-2023 13:43:06 UTC] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection.php on line 87
+[25-May-2023 18:35:53 Asia/Manila] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection-plumber.php on line 95
+[25-May-2023 11:10:58 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 102
+[25-May-2023 12:03:24 UTC] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection.php on line 87
+[25-May-2023 20:05:34 Asia/Manila] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection-plumber.php on line 95
+[25-May-2023 12:36:18 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php:44
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php(3): include()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php on line 44
+[25-May-2023 12:37:54 UTC] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection.php on line 87
+[25-May-2023 20:39:13 Asia/Manila] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection-plumber.php on line 95
+[25-May-2023 12:41:53 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php:44
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/approved-inspections.php(3): include()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php on line 44
+[25-May-2023 12:48:15 UTC] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection.php on line 87
+[25-May-2023 20:48:21 Asia/Manila] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection-plumber.php on line 95
+[25-May-2023 12:58:55 UTC] PHP Warning:  Undefined array key "reason" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/edit-advisory.php on line 92
+[25-May-2023 14:21:50 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php:44
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/home.php(3): include()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php on line 44
+[25-May-2023 21:57:22 UTC] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection.php on line 87
+[26-May-2023 05:58:40 Asia/Manila] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection-plumber.php on line 95
+[25-May-2023 22:03:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'billing.bill_num' in 'where clause' in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php:76
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php(76): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 76
+[25-May-2023 22:03:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'billing.bill_num' in 'where clause' in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php:76
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php(76): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 76
+[25-May-2023 22:03:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'billing.bill_num' in 'where clause' in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php:76
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php(76): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 76
+[25-May-2023 22:04:40 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 102
+[25-May-2023 22:04:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'billing.bill_num' in 'where clause' in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php:76
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php(76): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 76
+[25-May-2023 22:05:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'billing.bill_num' in 'where clause' in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php:76
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php(76): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 76
+[25-May-2023 22:05:50 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 276
+[25-May-2023 22:05:59 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 276
+[26-May-2023 02:49:50 UTC] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection.php on line 80
+[26-May-2023 10:50:00 Asia/Manila] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection-plumber.php on line 84
+[26-May-2023 03:09:09 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 276
+[26-May-2023 03:09:12 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 276
+[26-May-2023 03:09:13 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 276
+[26-May-2023 03:10:24 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 102
+[26-May-2023 03:12:48 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 102
+[26-May-2023 03:12:48 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 102
+[26-May-2023 03:14:35 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[26-May-2023 03:14:35 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[26-May-2023 03:15:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'billing.bill_num' in 'where clause' in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php:76
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php(76): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 76
+[26-May-2023 03:16:19 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 171
+[26-May-2023 03:16:21 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 171
+[26-May-2023 03:17:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'billing.bill_num' in 'where clause' in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php:76
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php(76): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 76
+[26-May-2023 03:18:29 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[26-May-2023 03:18:29 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[26-May-2023 03:19:26 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[26-May-2023 03:19:26 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[26-May-2023 03:20:25 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[26-May-2023 03:20:25 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[26-May-2023 03:20:26 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[26-May-2023 03:20:26 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[26-May-2023 03:20:27 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[26-May-2023 03:20:27 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[26-May-2023 03:20:27 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[26-May-2023 03:20:27 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[26-May-2023 03:20:27 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[26-May-2023 03:20:27 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[26-May-2023 03:21:46 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[26-May-2023 03:21:46 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[26-May-2023 03:22:01 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[26-May-2023 03:22:01 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[26-May-2023 03:22:02 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[26-May-2023 03:22:02 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[26-May-2023 03:22:02 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[26-May-2023 03:22:02 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[26-May-2023 03:22:42 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[26-May-2023 03:22:42 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[26-May-2023 03:23:24 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[26-May-2023 03:23:24 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[26-May-2023 03:31:32 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 276
+[26-May-2023 03:31:41 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 276
+[26-May-2023 03:32:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/SOA.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/SOA.php on line 44
+[26-May-2023 03:33:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/SOA.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/SOA.php on line 44
+[26-May-2023 03:39:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LEFT JOIN tblclients ON billing.client_ID =  billing.client_ID
+			 WHERE  tblcl' at line 3 in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php:77
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php(77): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 77
+[26-May-2023 03:39:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LEFT JOIN tblclients ON billing.client_ID =  billing.client_ID
+			 WHERE  tblcl' at line 3 in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php:77
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php(77): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 77
+[26-May-2023 03:39:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LEFT JOIN tblclients ON billing.client_ID =  billing.client_ID
+			 WHERE  tblcl' at line 3 in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php:76
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php(76): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 76
+[26-May-2023 03:39:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LEFT JOIN tblclients ON billing.client_ID =  billing.client_ID
+			 WHERE  tblcl' at line 3 in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php:76
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php(76): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 76
+[26-May-2023 03:43:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 137
+[26-May-2023 03:44:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 137
+[26-May-2023 03:45:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY date_billed.due_date DESC' at line 4 in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php:76
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php(76): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 76
+[26-May-2023 03:45:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY date_billed.due_date DESC' at line 4 in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php:76
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php(76): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 76
+[26-May-2023 03:46:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY date_billed.due_date DESC' at line 4 in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php:76
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php(76): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 76
+[26-May-2023 03:48:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Not unique table/alias: 'date_billed' in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php:121
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php(121): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 121
+[26-May-2023 04:12:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Not unique table/alias: 'date_billed' in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php:121
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php(121): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 121
+[26-May-2023 04:15:10 UTC] PHP Warning:  Undefined array key "billed_id" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 123
+[26-May-2023 04:15:10 UTC] PHP Warning:  Undefined array key "billed_id" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 123
+[26-May-2023 04:25:17 UTC] PHP Warning:  Undefined variable $status in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/edit-billing.php on line 70
+[26-May-2023 04:25:17 UTC] PHP Warning:  Undefined array key "bill_num" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/edit-billing.php on line 95
+[26-May-2023 04:25:17 UTC] PHP Warning:  Undefined variable $ai in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/edit-billing.php on line 129
+[26-May-2023 04:25:17 UTC] PHP Warning:  Undefined array key "invoice_due_date" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/edit-billing.php on line 148
+[26-May-2023 04:26:40 UTC] PHP Warning:  Undefined variable $status in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/edit-billing.php on line 70
+[26-May-2023 04:26:40 UTC] PHP Warning:  Undefined array key "bill_num" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/edit-billing.php on line 95
+[26-May-2023 04:26:40 UTC] PHP Warning:  Undefined variable $ai in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/edit-billing.php on line 129
+[26-May-2023 04:26:40 UTC] PHP Warning:  Undefined array key "invoice_due_date" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/edit-billing.php on line 148
+[26-May-2023 04:28:00 UTC] PHP Warning:  Undefined variable $status in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/edit-billing.php on line 70
+[26-May-2023 04:28:00 UTC] PHP Warning:  Undefined array key "bill_num" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/edit-billing.php on line 95
+[26-May-2023 04:28:00 UTC] PHP Warning:  Undefined variable $ai in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/edit-billing.php on line 129
+[26-May-2023 04:28:00 UTC] PHP Warning:  Undefined variable $status in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/edit-billing.php on line 70
+[26-May-2023 04:28:00 UTC] PHP Warning:  Undefined array key "bill_num" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/edit-billing.php on line 95
+[26-May-2023 04:28:00 UTC] PHP Warning:  Undefined variable $ai in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/edit-billing.php on line 129
+[26-May-2023 04:28:01 UTC] PHP Warning:  Undefined variable $status in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/edit-billing.php on line 70
+[26-May-2023 04:28:01 UTC] PHP Warning:  Undefined array key "bill_num" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/edit-billing.php on line 95
+[26-May-2023 04:28:01 UTC] PHP Warning:  Undefined variable $ai in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/edit-billing.php on line 129
+[26-May-2023 04:28:17 UTC] PHP Warning:  Undefined variable $status in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/edit-billing.php on line 70
+[26-May-2023 04:28:17 UTC] PHP Warning:  Undefined array key "bill_num" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/edit-billing.php on line 95
+[26-May-2023 04:28:17 UTC] PHP Warning:  Undefined variable $ai in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/edit-billing.php on line 129
+[26-May-2023 04:53:56 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[26-May-2023 04:53:56 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[26-May-2023 04:55:46 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[26-May-2023 04:55:46 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[26-May-2023 04:57:20 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[26-May-2023 04:57:20 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[26-May-2023 06:36:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 153
+[26-May-2023 06:51:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 153
+[26-May-2023 06:52:29 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[26-May-2023 06:52:29 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[26-May-2023 06:56:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 153
+[26-May-2023 06:58:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 153
+[26-May-2023 06:58:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 153
+[26-May-2023 07:12:39 UTC] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection.php on line 80
+[26-May-2023 15:12:46 Asia/Manila] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection-plumber.php on line 84
+[26-May-2023 07:41:55 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 276
+[26-May-2023 07:42:22 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 276
+[26-May-2023 08:00:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'asasjpg','99122')' at line 2 in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-plumber.php:220
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-plumber.php(220): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-plumber.php on line 220
+[26-May-2023 08:04:42 UTC] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection.php on line 80
+[26-May-2023 16:04:51 Asia/Manila] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection-plumber.php on line 84
+[27-May-2023 06:40:52 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php:44
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/advisory-reports.php(3): include()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php on line 44
+[03-Jun-2023 12:33:56 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 276
+[03-Jun-2023 13:10:35 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 276
+[04-Jun-2023 06:29:42 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 276
+[04-Jun-2023 06:29:47 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 276
+[04-Jun-2023 06:38:56 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[04-Jun-2023 06:38:56 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[04-Jun-2023 06:39:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 153
+[06-Jun-2023 05:50:28 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 276
+[06-Jun-2023 05:50:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 153
+[06-Jun-2023 05:50:59 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[06-Jun-2023 05:50:59 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[06-Jun-2023 05:51:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 153
+[06-Jun-2023 05:52:03 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[06-Jun-2023 05:52:03 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[06-Jun-2023 05:52:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 153
+[06-Jun-2023 05:53:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 153
+[06-Jun-2023 05:54:35 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[06-Jun-2023 05:54:35 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[06-Jun-2023 05:57:43 UTC] PHP Warning:  Undefined array key "schedule_ID" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print_now.php on line 203
+[06-Jun-2023 05:57:43 UTC] PHP Warning:  Undefined array key "schedule_ID" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print_now.php on line 203
+[06-Jun-2023 05:57:43 UTC] PHP Warning:  Undefined array key "schedule_ID" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print_now.php on line 203
+[06-Jun-2023 05:57:43 UTC] PHP Warning:  Undefined array key "schedule_ID" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print_now.php on line 203
+[06-Jun-2023 05:58:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE position = 'plumber'' at line 1 in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print_now.php:197
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print_now.php(197): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print_now.php on line 197
+[06-Jun-2023 05:58:31 UTC] PHP Warning:  Undefined array key "schedule_ID" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print_now.php on line 203
+[06-Jun-2023 05:58:31 UTC] PHP Warning:  Undefined array key "schedule_ID" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print_now.php on line 203
+[06-Jun-2023 05:58:31 UTC] PHP Warning:  Undefined array key "schedule_ID" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print_now.php on line 203
+[06-Jun-2023 06:03:20 UTC] PHP Warning:  Undefined array key "schedule_ID" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print_now.php on line 203
+[06-Jun-2023 06:03:20 UTC] PHP Warning:  Undefined array key "schedule_ID" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print_now.php on line 203
+[06-Jun-2023 06:03:20 UTC] PHP Warning:  Undefined array key "schedule_ID" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print_now.php on line 203
+[07-Jun-2023 06:38:48 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php:44
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/plumber.php(4): include()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php on line 44
+[07-Jun-2023 14:04:54 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[07-Jun-2023 14:04:54 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[07-Jun-2023 14:05:31 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[07-Jun-2023 14:05:31 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[07-Jun-2023 14:05:31 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[07-Jun-2023 14:05:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 153
+[07-Jun-2023 14:06:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/add-billing.php on line 153
+[08-Jun-2023 03:19:34 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php:44
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/about-picture.php(4): include()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php on line 44
+[08-Jun-2023 04:58:02 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php:44
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/public-advisory.php(3): include()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php on line 44
+[08-Jun-2023 05:01:33 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 276
+[08-Jun-2023 05:04:42 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 276
+[08-Jun-2023 05:05:18 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 276
+[08-Jun-2023 05:05:24 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 276
+[08-Jun-2023 05:13:17 UTC] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection.php on line 80
+[08-Jun-2023 13:15:22 Asia/Manila] PHP Warning:  Undefined array key "ClientName" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/send-inspection-plumber.php on line 84
+[08-Jun-2023 05:18:47 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 276
+[08-Jun-2023 05:18:47 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 276
+[08-Jun-2023 05:18:56 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 276
+[08-Jun-2023 05:25:19 UTC] PHP Warning:  Undefined array key "schedule_ID" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print_now.php on line 203
+[08-Jun-2023 05:25:19 UTC] PHP Warning:  Undefined array key "schedule_ID" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print_now.php on line 203
+[08-Jun-2023 05:25:19 UTC] PHP Warning:  Undefined array key "schedule_ID" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print_now.php on line 203
+[08-Jun-2023 06:09:18 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php:44
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/pending-clients.php(3): include()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php on line 44
+[18-Jun-2023 06:33:38 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php:44
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/inspection-reports.php(3): include()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php on line 44
+[22-Aug-2023 09:03:53 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 276
+[22-Aug-2023 09:04:13 UTC] PHP Warning:  Undefined array key "schedule_ID" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print_now.php on line 203
+[22-Aug-2023 09:04:13 UTC] PHP Warning:  Undefined array key "schedule_ID" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print_now.php on line 203
+[22-Aug-2023 09:04:13 UTC] PHP Warning:  Undefined array key "schedule_ID" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print_now.php on line 203
+[22-Aug-2023 09:07:34 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 276
+[22-Aug-2023 09:15:19 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 276
+[22-Aug-2023 09:15:34 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 276
+[22-Aug-2023 09:15:49 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 276
+[23-Aug-2023 12:40:52 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 276
+[23-Aug-2023 12:40:58 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 276
+[23-Aug-2023 12:41:13 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 276
+[23-Aug-2023 12:43:23 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 276
+[23-Aug-2023 12:43:26 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 276
+[23-Aug-2023 12:43:28 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 276
+[23-Aug-2023 12:43:36 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 276
+[02-Sep-2023 06:54:11 UTC] PHP Warning:  Undefined variable $status in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/edit-billing.php on line 70
+[02-Sep-2023 06:54:11 UTC] PHP Warning:  Undefined array key "bill_num" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/edit-billing.php on line 95
+[02-Sep-2023 06:54:11 UTC] PHP Warning:  Undefined variable $ai in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/edit-billing.php on line 129
+[02-Sep-2023 06:54:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/SOA.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/SOA.php on line 44
+[11-Sep-2023 12:36:21 UTC] PHP Warning:  Undefined array key "schedule_ID" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print_now.php on line 203
+[11-Sep-2023 12:36:21 UTC] PHP Warning:  Undefined array key "schedule_ID" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print_now.php on line 203
+[11-Sep-2023 12:36:21 UTC] PHP Warning:  Undefined array key "schedule_ID" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/print_now.php on line 203
+[11-Sep-2023 12:36:31 UTC] PHP Warning:  Undefined array key "scomidid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaints.php on line 276
+[12-Sep-2023 02:29:53 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[12-Sep-2023 02:29:53 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[12-Sep-2023 02:29:53 UTC] PHP Warning:  Undefined array key "aid" in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/datebilled.php on line 103
+[12-Sep-2023 02:31:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/SOA.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/SOA.php on line 44
+[12-Sep-2023 03:28:54 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php:44
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/complaint-reports.php(3): include()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/admin/includes/topbar.php on line 44

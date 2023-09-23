@@ -1,0 +1,197 @@
+[25-May-2023 22:05:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\Exception" not found in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/PHPMailer-Master/src/PHPMailer.php:1997
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/PHPMailer-Master/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#1 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/PHPMailer-Master/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php(182): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/PHPMailer-Master/src/PHPMailer.php on line 1997
+[26-May-2023 02:51:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php:145
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php(145): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php on line 145
+[26-May-2023 02:52:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php:145
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php(145): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php on line 145
+[26-May-2023 02:52:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php:145
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php(145): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php on line 145
+[26-May-2023 02:52:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php:145
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php(145): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php on line 145
+[26-May-2023 02:54:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php:145
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php(145): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php on line 145
+[26-May-2023 02:54:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php:145
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php(145): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php on line 145
+[26-May-2023 02:54:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php:145
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php(145): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php on line 145
+[26-May-2023 02:55:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php:145
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php(145): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php on line 145
+[26-May-2023 02:55:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php:145
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php(145): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php on line 145
+[26-May-2023 02:56:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php:145
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php(145): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php on line 145
+[26-May-2023 02:57:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php:145
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php(145): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php on line 145
+[26-May-2023 02:57:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php:145
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php(145): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php on line 145
+[26-May-2023 02:57:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php:145
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php(145): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php on line 145
+[26-May-2023 02:58:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php:145
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php(145): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php on line 145
+[26-May-2023 03:02:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php:145
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php(145): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php on line 145
+[26-May-2023 03:03:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php:145
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php(145): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php on line 145
+[26-May-2023 03:03:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php:145
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php(145): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php on line 145
+[26-May-2023 03:04:02 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\Exception" not found in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/PHPMailer-Master/src/PHPMailer.php:1997
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/PHPMailer-Master/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#1 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/PHPMailer-Master/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php(182): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/PHPMailer-Master/src/PHPMailer.php on line 1997
+[26-May-2023 03:04:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php:145
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php(145): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php on line 145
+[26-May-2023 03:04:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php:145
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php(145): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php on line 145
+[26-May-2023 11:26:30 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '11:26:AM, '5','dsffsdfsfdsdfs')' at line 1 in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php:149
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php(149): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php on line 149
+[26-May-2023 11:27:11 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '11:27:AM, '5','dsffsdfsfdsdfs')' at line 1 in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php:152
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php(152): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php on line 152
+[26-May-2023 11:27:40 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '11:27:AM, '5','dsffsdfsfdsdfs')' at line 1 in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php:152
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php(152): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php on line 152
+[26-May-2023 11:28:10 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '11:28:10, '5','dsffsdfsfdsdfs')' at line 1 in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php:149
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php(149): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php on line 149
+[26-May-2023 11:28:14 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '11:28:14, '5','dsdfffds')' at line 1 in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php:149
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php(149): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php on line 149
+[26-May-2023 11:28:19 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '11:28:19, '5','cvvcvvcxcx')' at line 1 in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php:149
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php(149): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php on line 149
+[26-May-2023 11:29:08 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '11:29:08, '5','ssddasasd
+')' at line 1 in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php:149
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php(149): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php on line 149
+[26-May-2023 11:29:11 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '11:29:11, '5','ssddasasd
+')' at line 1 in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php:149
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php(149): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php on line 149
+[26-May-2023 11:29:30 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '11:29:30, '5','dsaasdasadsads')' at line 1 in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php:149
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php(149): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php on line 149
+[26-May-2023 11:29:33 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '11:29:33, '5','dsaasdasadsads')' at line 1 in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php:149
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php(149): mysqli->query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php on line 149
+[26-May-2023 03:29:54 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\Exception" not found in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/PHPMailer-Master/src/PHPMailer.php:1997
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/PHPMailer-Master/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#1 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/PHPMailer-Master/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php(184): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/PHPMailer-Master/src/PHPMailer.php on line 1997
+[26-May-2023 03:30:03 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\Exception" not found in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/PHPMailer-Master/src/PHPMailer.php:1997
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/PHPMailer-Master/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#1 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/PHPMailer-Master/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php(184): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/PHPMailer-Master/src/PHPMailer.php on line 1997
+[26-May-2023 03:31:15 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\Exception" not found in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/PHPMailer-Master/src/PHPMailer.php:1997
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/PHPMailer-Master/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#1 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/PHPMailer-Master/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php(184): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/PHPMailer-Master/src/PHPMailer.php on line 1997
+[26-May-2023 07:29:04 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/includes/topbar.php:44
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/billing.php(3): include()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/includes/topbar.php on line 44
+[08-Jun-2023 05:18:37 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\Exception" not found in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/PHPMailer-Master/src/PHPMailer.php:1997
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/PHPMailer-Master/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#1 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/PHPMailer-Master/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/tj6gnl1k9vif/public_html/uws-mis.online/client/complaints.php(184): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/PHPMailer-Master/src/PHPMailer.php on line 1997
+[08-Jun-2023 06:15:12 UTC] PHP Warning:  Undefined array key "invoice_date" in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/billing.php on line 96
+[08-Jun-2023 06:15:12 UTC] PHP Warning:  Undefined array key "invoice_due_date" in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/billing.php on line 97
+[08-Jun-2023 06:15:12 UTC] PHP Warning:  Undefined array key "notes" in /home/tj6gnl1k9vif/public_html/uws-mis.online/client/billing.php on line 100
