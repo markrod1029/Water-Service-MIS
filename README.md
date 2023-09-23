@@ -1,7 +1,7 @@
 # Water Service Managment 
 MIS Urbiztondo Pangasinan
 
-This capstone project consists of three user account types
+This project consists of Four user account types
 Admin
 Client
 Plumber
