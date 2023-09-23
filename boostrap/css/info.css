@@ -1,0 +1,227 @@
+
+/*========About========*/
+*{
+  font-family: 'Poppins', sans-serif;
+}
+#rcorners3 {
+  border-radius: 15px 50px;
+  background: #0b92a6;
+  padding: 10px 0 0 0; 
+  width: 80%;
+  height: 80%; 
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+
+} 
+.info{
+    padding-bottom: 5%;
+    }
+    .info_text{
+      padding: 0 0 3% 0;
+      text-align: center;
+      font-size: 2em;
+      
+    }
+    .main {
+      width: 100%;
+      display: flex;
+      padding: 0% 0 2% 0;
+      justify-content: space-around;
+      align-items: center;
+      flex-wrap: wrap;
+      
+    }
+    
+    .card {
+      width: 300px;
+      height: 400px;
+      position: relative;
+      background: red;
+      cursor: pointer;
+      overflow: hidden;
+      border-radius: 8px;
+      margin: 10px;
+    }
+    
+    .circle {
+      width: 100px;
+      height: 100px;
+      background: radial-gradient(#b0e633, #53ef7d);
+      border-radius: 50%;
+      filter: blur(2px);
+      position: absolute;
+    }
+    
+    .circle:nth-child(1) {
+      animation: firstCircle 5s linear infinite;
+    }
+    
+    @keyframes firstCircle {
+      0% {
+        top: -25px;
+        left: -25px;
+      }
+    
+      50% {
+        top: 30%;
+        left: 30%;
+      }
+    
+      75% {
+        top: 30%;
+        left: 70%;
+      }
+    
+      100% {
+        top: -25px;
+        left: -25px;
+      }
+    }
+    
+    .circle:nth-child(2) {
+      bottom: -25px;
+      right: -25px;
+      animation-name: move-down1;
+    }
+    @keyframes move-down1{
+      to{
+        transform:translateY(10px);
+      }
+    }
+    .card:nth-child(1){
+      background: #56acf3;
+    }
+    .card:nth-child(2){
+      background: #ce9d53;
+    }
+    .card:nth-child(3){
+      background: #d291e2;
+    }
+    .card:nth-child(1)>.circle{
+      background: #f8f8f8;
+    }
+    .card:nth-child(2)>.circle{
+      background: #ff5f02;
+    }
+    .card:nth-child(3)>.circle{
+      background: #c703ee;
+    }
+    .card-inner{
+    width: inherit;
+    height: inherit;
+    background: rgba(255,255,255,.05);
+    box-shadow: 0 0 10px rgba(0,0,0,0.25);
+    backdrop-filter: blur(4px);
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    transition: all 1.5s;
+    }
+    .card_heading{
+    position: absolute;
+    top: 5%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    z-index: 10;
+    }
+    .card-inner>img{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    object-fit: cover;
+    transition: all 1.5s;
+    }
+    .card_back{
+    position: absolute;
+    text-align: justify;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    transform: translateX(-100%); 
+    transition: all 1.5s;
+    }
+    .card_back::before{
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 100%;
+    background: #efefef1e;
+    /* opacity: 0.3; */
+    }
+    .card_back>p{
+    padding:20px;
+    font-size: 16px;
+    position: relative;
+    transition: all 1s;
+    }
+    .card:hover .card-inner>img{
+    transform: translateX(100%);
+    }
+    .card:hover .card_back{
+    transform: translateX(0);
+    transition: all 1s;
+    }
+    .card .card_heading>h2{
+    position: relative;
+    }
+    .card:nth-child(3):hover .card-inner>img{
+    transform: translateX(-100%);
+    }
+    .card:nth-child(3) .card_back{
+    transform: translateX(100%);
+    }
+    .card:nth-child(3):hover .card_back{
+    transform: translateX(0%);
+    }
+    
+    @media screen and (max-width:1124px){
+      .main{
+       padding: 0% 0 6% 0;
+      }
+    
+    }
+    
+    
+    
+    
+    /*======= Media queries (max-width: 1100px) =======*/
+    @media screen and (max-width: 1100px){
+    .info_text{
+            font-size: 1.7em;
+        }
+    }
+    
+    
+    /*======= Media queries (max-width: 785px) =======*/
+    @media screen and (max-width: 785px){
+      .info_text{
+            font-size: 1.4em;
+        }
+        .card{
+        width: 250px;
+        height: 350px;
+      }
+    }
+    
+    
+    /*======= Media queries (max-width: 485px) =======*/
+    @media screen and (max-width: 485px){
+      .info_text{
+            font-size: 1.2em;
+        }
+        .main{
+       padding: 0% 0 7% 0;
+      }
+      .card{
+        width: 250px;
+        height: 350px;
+      }
+       
+    }    
